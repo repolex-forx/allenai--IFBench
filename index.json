@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "IFBench",
+  "versions": [
+    {
+      "commit": "cd189a9c2889526d8af901d2103fd3e1ffcea6df",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:07:31.685932+00:00"
+    }
+  ]
+}
